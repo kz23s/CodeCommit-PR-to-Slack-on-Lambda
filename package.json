@@ -1,0 +1,23 @@
+{
+  "name": "codecommit-pr-to-slack-on-lambda",
+  "version": "1.0.0",
+  "description": "CodeCommit PR to Slack on Lambda ====================================",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kz23s/CodeCommit-PR-to-Slack-on-Lambda.git"
+  },
+  "author": "kz23s",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kz23s/CodeCommit-PR-to-Slack-on-Lambda/issues"
+  },
+  "homepage": "https://github.com/kz23s/CodeCommit-PR-to-Slack-on-Lambda#readme"
+}
